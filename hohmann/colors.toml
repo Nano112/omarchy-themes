@@ -1,0 +1,36 @@
+# Hohmann — monochrome drafting theme
+# Graphite paper and white drafting ink, with colour reserved for what the
+# sheets actually annotate: amber for burns and callouts, green for the live
+# trajectory, violet for swept area and halo orbits.
+
+mode = "dark"
+
+accent = "#F0A45E"
+selection = "#26262B"
+muted = "#4A4A52"
+
+background = "#0C0C0E"
+dark_background = "#08080A"
+darker_background = "#050506"
+lighter_background = "#1B1B1F"
+
+foreground = "#E2E2E6"
+dark_foreground = "#7D7D85"
+light_foreground = "#B4B4BA"
+bright_foreground = "#F6F6F8"
+
+red = "#FF6B57"
+yellow = "#E8C766"
+orange = "#F0A45E"
+green = "#5FD3A0"
+cyan = "#5FD0E8"
+blue = "#79B4E8"
+magenta = "#BF9BE0"
+brown = "#A98A63"
+
+bright_red = "#FF8A78"
+bright_yellow = "#F5D98A"
+bright_green = "#84E4BB"
+bright_cyan = "#8AE2F2"
+bright_blue = "#9CC9F2"
+bright_magenta = "#D3B4F0"

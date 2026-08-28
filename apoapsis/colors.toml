@@ -1,0 +1,35 @@
+# Apoapsis — deep-space dark theme
+# Backgrounds: night side of orbit. Foregrounds: starlight.
+# Accents: mission-control telemetry (GO green, caution amber, abort red).
+
+mode = "dark"
+
+accent = "#5EA9FF"
+selection = "#1E2C44"
+muted = "#37475F"
+
+background = "#0B111C"
+dark_background = "#070C14"
+darker_background = "#04070D"
+lighter_background = "#182133"
+
+foreground = "#C7D5E6"
+dark_foreground = "#64789A"
+light_foreground = "#A3B4C9"
+bright_foreground = "#E6EFFA"
+
+red = "#F4573E"
+yellow = "#F5C245"
+orange = "#FF9448"
+green = "#4FD69C"
+cyan = "#57D8DE"
+blue = "#5EA9FF"
+magenta = "#B98BFF"
+brown = "#9A7355"
+
+bright_red = "#FF6E56"
+bright_yellow = "#FFD469"
+bright_green = "#6EE7B4"
+bright_cyan = "#7BE9EF"
+bright_blue = "#82BEFF"
+bright_magenta = "#CBA6FF"
